@@ -12,8 +12,16 @@ If you are using the instrument, please cite the instrument's repository as well
 
 ### Instructions
 
+LEBA captures light exposure-related behaviours on a 5 point Likert type scale ranging from 1 to 5 (Never = 1; Rarely = 2; Sometimes = 3; Often = 4; Always = 5). The score of each factor is calculated by the summation of scores of items belonging to the corresponding factor. Respondends are requested to respond to each item in a retrospective manner where they try to capture their propensity of different light exposure related behaviors in the **past 4 weeks.**"
+
 #### Qualtrics
 
+All files relevant for the [Qualtrics](https://www.qualtrics.com/) platform can be found under `qualtrics/`. This folder contains the following files:
+
+- `LEBA-long.qsf`
+- `LEBA_short.qsf`
+
+These QSF files can be directly imported into Qualtrics. To create a project from these QSF files, after logging into your Qualtrics account, click on the global navigation icon located in the top-left, next to the XM logo and go to **Catalog** -> **Survey** -> **Get started**. On this page, in the  **Name** field please enter the name for your survey. In the **How do you want to start your survey?** field, please select **"Import a QSF file"** from the drop-down list and click **"Create Project"**. After clicking **"Create project"**, you will be automatically taken to the survey tab.
 
 #### REDCap
 
@@ -34,10 +42,12 @@ These correspond to the are the unzipped, decompressed versions of the zip files
 
 ### License
 
-The Light Exposure Behaviour Assessment (LEBA) instrument is released under the [CC-BY-NC-SA (Creative Commons Attribution-NonCommercial-ShareAlike 4.0) International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The Light Exposure Behaviour Assessment (LEBA) instrument is released under the [CC-BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International) International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-![CC-BY-NC-SA logo](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+
+![CC-BY-NC-ND logo](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
 ### Contributing and translations
 
-We welcome translations of the LEBA instrument, under the conditions of the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). For any questions regarding translations, please email [Prof. Dr.. Manuel Spitschan](mailto:manuel.spitschan@tum.de).
+We welcome translations of the LEBA instrument, under the conditions of the [CC-BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International) International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+. For any questions regarding translations, please email [Prof. Dr.. Manuel Spitschan](mailto:manuel.spitschan@tum.de).
