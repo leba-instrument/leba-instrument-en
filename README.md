@@ -28,7 +28,7 @@ All files relevant for the [Qualtrics](https://www.qualtrics.com/) platform can 
 - `LEBA-long.qsf`
 - `LEBA_short.qsf`
 
-These QSF files can be directly imported into Qualtrics. To create a project from these QSF files, after logging into your Qualtrics account, click on the global navigation icon located in the top-left, next to the XM logo and go to **Catalog** -> **Survey** -> **Get started**. On this page, in the  **Name** field please enter the name for your survey. In the **How do you want to start your survey?** field, please select **"Import a QSF file"** from the drop-down list and click **"Create Project"**. After clicking **"Create project"**, you will be automatically taken to the survey tab.
+These QSF files are generated using **Qualtrics** platform. These QSF files can be directly imported into Qualtrics. To create a project from these QSF files, after logging into your Qualtrics account, click on the global navigation icon located in the top-left, next to the XM logo and go to **Catalog** -> **Survey** -> **Get started**. On this page, in the  **Name** field please enter the name for your survey. In the **How do you want to start your survey?** field, please select **"Import a QSF file"** from the drop-down list and click **"Create Project"**. After clicking **"Create project"**, you will be automatically taken to the survey tab.
 
 #### REDCap
 
