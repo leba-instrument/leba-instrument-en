@@ -6,6 +6,8 @@
 
 The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrument for capturing, assessing and quantifying self-reported behaviours related to light exposure in humans.
 
+**Note: This GitHub repository contains developmental versions of the instrument.** For archival and version-stamped releases of the instrument versions, please visit the [OSF page (DOI: 10.17605/OSF.IO/EZ6GJ)](https://doi.org/10.17605/OSF.IO/EZ6GJ).
+
 ### Citing
 
 If you are using the instrument, please cite the instrument's OSF page ([DOI: 10.17605/OSF.IO/EZ6GJ](https://doi.org/10.17605/OSF.IO/EZ6GJ)) as well as our preprint on the topic:
