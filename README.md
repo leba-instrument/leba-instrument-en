@@ -8,7 +8,7 @@ The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrum
 
 ### Citing
 
-If you are using the instrument, please cite the instrument's repository as well as our preprint on the topic:
+If you are using the instrument, please cite the instrument's OSF page ([DOI: 10.17605/OSF.IO/EZ6GJ](https://doi.org/10.17605/OSF.IO/EZ6GJ)) as well as our preprint on the topic. 
 
 ### Instructions
 
