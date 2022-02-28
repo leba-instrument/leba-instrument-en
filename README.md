@@ -20,9 +20,7 @@ LEBA captures light exposure-related behaviours on a 5 point Likert type scale r
 
 This repository contains:
 
-- Sharable pdf versions of **Long and Short forms of LEBA** 
-- Qualtrics templates of **Long and Short forms of LEBA**
-- Redcap templates of **Long and Short forms of LEBA**
+[PDF](https://github.com/leba-instrument/leba-instrument-en/tree/main/pdf) ■ [Qualtrics](https://github.com/leba-instrument/leba-instrument-en/tree/main/qualtrics) ■ [REDCap](https://github.com/leba-instrument/leba-instrument-en/tree/main/redcap)
 
 
 #### Qualtrics
