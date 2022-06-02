@@ -9,7 +9,7 @@ The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrum
 **Note: This GitHub repository contains developmental versions of the instrument.** For archival and version-stamped releases of the instrument versions, please visit the [OSF page (DOI: 10.17605/OSF.IO/EZ6GJ)](https://doi.org/10.17605/OSF.IO/EZ6GJ).
 
 ### Release history
-
+[v1.0.2, 2 June 2022]  
 [v1.0.1, 6 April 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.1)  
 [v1.0.0, 28 February 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.0)  
 
@@ -19,11 +19,11 @@ The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrum
 
 If you are using the instrument, please cite the instrument's OSF page ([DOI: 10.17605/OSF.IO/EZ6GJ](https://doi.org/10.17605/OSF.IO/EZ6GJ)) as well as our preprint on the topic:
 
-> Siraji, M. A., Lazar, R., van Duijnhoven, J., Schlangen, L., Haque, S., Kalavally, V., Vetter, C., Glickman, G., Smolders, K., & Spitschan, M. (2022). Light Exposure Behaviour Assessment (LEBA) instrument (English language), v1.0.1. Retrieved from osf.io/ez6gj. DOI: 10.17605/OSF.IO/EZ6GJ.
+> Siraji, M. A., Lazar, R., van Duijnhoven, J., Schlangen, L., Haque, S., Kalavally, V., Vetter, C., Glickman, G., Smolders, K., & Spitschan, M. (2022). Light Exposure Behaviour Assessment (LEBA) instrument (English language), v1.0.2. Retrieved from osf.io/ez6gj. DOI: 10.17605/OSF.IO/EZ6GJ.
 
 ### Instructions
 
-LEBA captures light exposure-related behaviours on a 5 point Likert type scale ranging from 1 to 5 (1 = never; 2 = rarely; 3 = sometimes; 4 = often; 5 = always). The score of each factor is calculated by the summation of scores of items belonging to the corresponding factor. Respondends are requested to respond to each item in a retrospective manner where they try to capture their propensity of different light exposure related behaviors in the **past 4 weeks.**
+LEBA captures light exposure-related behaviours on a 5-point Likert type scale ranging from 1 to 5 (1 = never; 2 = rarely; 3 = sometimes; 4 = often; 5 = always). The score of each factor is calculated by the summation of scores of items belonging to the corresponding factor. Respondents are requested to respond to each item in a retrospective manner where they try to capture their propensity of different light exposure-related behaviors in the **past four weeks.**
 
 This repository contains:
 
@@ -46,14 +46,14 @@ All files relevant for the [REDCap](https://www.project-redcap.org/) platform ca
 - `LEBA-long-form.zip`
 - `LEBA_short-form.zip`
 
-These ZIP files can be directly imported in REDCap. To import the ZIP files in your REDCap project, go to **Project Setup** -> **Online Designer** -> **Upload instrument ZIP file from another project/user or external libraries**. This will prompt you to select a file on your computer. After uploading the ZIP files, the instrument will be integrated in your project's instruments.
+These ZIP files can be directly imported into REDCap. To import the ZIP files into your REDCap project, go to **Project Setup** -> **Online Designer** -> **Upload instrument ZIP file from another project/user or external libraries**. This will prompt you to select a file on your computer. After uploading the ZIP files, the instrument will be integrated into your project's instruments.
 
 In addition to the ZIP files, the `redcap/` folder also contains the following sub-folders:
 
 - `LEBA_long_form/`
 - `LEBA_short_form/`
 
-These correspond to the are the unzipped, decompressed versions of the zip files above. If you prefer to enter the instrument directly in your project's data dictionary, you can use the files called `instrument.csv` for this.
+These are the unzipped, decompressed versions of the zip files above. If you prefer to enter the instrument directly in your project's data dictionary, you can use the files called `instrument.csv` for this.
 
 
 ### License
@@ -64,9 +64,9 @@ The Light Exposure Behaviour Assessment (LEBA) instrument is released under the 
 
 ### Contributing and translations
 
-We welcome translations of the LEBA instrument, under the conditions of the [CC-BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International) International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+We welcome translations of the LEBA instrument under the conditions of the [CC-BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International) International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
 ### Contact
 
-For any questions regarding translations, please email [Prof. Dr. Manuel Spitschan](mailto:manuel.spitschan@tum.de).
+For any questions regarding translations, please email [Prof. Dr Manuel Spitschan](mailto:manuel.spitschan@tum.de).
