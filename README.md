@@ -69,4 +69,4 @@ We welcome translations of the LEBA instrument under the conditions of the [CC-B
 
 ### Contact
 
-For any questions regarding translations, please email [Prof. Dr. Manuel Spitschan](mailto:manuel.spitschan@tum.de).
+For any questions regarding translations, please email [Prof. Dr Manuel Spitschan](mailto:manuel.spitschan@tum.de).
