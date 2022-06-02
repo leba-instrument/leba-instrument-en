@@ -9,7 +9,7 @@ The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrum
 **Note: This GitHub repository contains developmental versions of the instrument.** For archival and version-stamped releases of the instrument versions, please visit the [OSF page (DOI: 10.17605/OSF.IO/EZ6GJ)](https://doi.org/10.17605/OSF.IO/EZ6GJ).
 
 ### Release history
-
+[v1.0.2, 2 June 2022]
 [v1.0.1, 6 April 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.1)  
 [v1.0.0, 28 February 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.0)  
 
