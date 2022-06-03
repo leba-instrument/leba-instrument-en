@@ -9,7 +9,7 @@ The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrum
 **Note: This GitHub repository contains developmental versions of the instrument.** For archival and version-stamped releases of the instrument versions, please visit the [OSF page (DOI: 10.17605/OSF.IO/EZ6GJ)](https://doi.org/10.17605/OSF.IO/EZ6GJ).
 
 ### Release history
-[v1.0.2, 2 June 2022]  
+v1.0.2, 3 June 2022  
 [v1.0.1, 6 April 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.1)  
 [v1.0.0, 28 February 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.0)  
 
@@ -23,10 +23,10 @@ If you are using the instrument, please cite the instrument's OSF page ([DOI: 10
 
 ### Instructions
 
-LEBA captures light exposure-related behaviours on a 5-point Likert type scale ranging from 1 to 5 (1 = never; 2 = rarely; 3 = sometimes; 4 = often; 5 = always). The score of each factor is calculated by the summation of scores of items belonging to the corresponding factor. Respondents are requested to respond to each item in a retrospective manner where they try to capture their propensity of different light exposure-related behaviors in the **past four weeks.**
+LEBA captures light exposure-related behaviours on a 5-point Likert type scale ranging from 1 to 5 (1 = never; 2 = rarely; 3 = sometimes; 4 = often; 5 = always). The score of each factor is calculated by the summation of scores of items belonging to the corresponding factor. Respondents are requested to respond to each item in a retrospective manner where they try to capture their propensity of different light exposure-related behaviours in the **past four weeks.**
 
 This repository contains:
-
+[docx]
 [PDF](https://github.com/leba-instrument/leba-instrument-en/tree/main/pdf) ■ [Qualtrics](https://github.com/leba-instrument/leba-instrument-en/tree/main/qualtrics) ■ [REDCap](https://github.com/leba-instrument/leba-instrument-en/tree/main/redcap)
 
 
