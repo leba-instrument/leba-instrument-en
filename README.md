@@ -26,7 +26,7 @@ If you are using the instrument, please cite the instrument's OSF page ([DOI: 10
 LEBA captures light exposure-related behaviours on a 5-point Likert type scale ranging from 1 to 5 (1 = never; 2 = rarely; 3 = sometimes; 4 = often; 5 = always). The score of each factor is calculated by the summation of scores of items belonging to the corresponding factor. Respondents are requested to respond to each item in a retrospective manner where they try to capture their propensity of different light exposure-related behaviours in the **past four weeks.**
 
 This repository contains:
-[docx](https://github.com/leba-instrument/leba-instrument-en/tree/main/docx)
+[docx](https://github.com/leba-instrument/leba-instrument-en/tree/main/docx) ■
 [PDF](https://github.com/leba-instrument/leba-instrument-en/tree/main/pdf) ■ [Qualtrics](https://github.com/leba-instrument/leba-instrument-en/tree/main/qualtrics) ■ [REDCap](https://github.com/leba-instrument/leba-instrument-en/tree/main/redcap)
 
 
