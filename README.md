@@ -10,9 +10,7 @@ The **Light Exposure Behaviour Assessment (LEBA)** instrument is a novel instrum
 
 ### Release history
 [v1.0.2, 3 June 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.2)
-
 [v1.0.1, 6 April 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.1)
-
 [v1.0.0, 28 February 2022](https://github.com/leba-instrument/leba-instrument-en/releases/tag/v1.0.0)
 
 
