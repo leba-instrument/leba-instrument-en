@@ -23,11 +23,11 @@ If you are using the instrument, please cite the instrument's OSF page ([DOI: 10
 
 ### Instructions
 
-LEBA captures light exposure-related behaviours on a 5-point Likert type scale ranging from 1 to 5 (1 = never; 2 = rarely; 3 = sometimes; 4 = often; 5 = always). The score of each factor is calculated by the summation of scores of items belonging to the corresponding factor. Respondents are requested to respond to each item in a retrospective manner where they try to capture their propensity of different light exposure-related behaviours in the **past four weeks.**
+LEBA captures light exposure-related behaviours on a 5-point Likert type scale ranging from 1 to 5 (1 = never; 2 = rarely; 3 = sometimes; 4 = often; 5 = always). Each factor is scored by adding up all the corresponding item scores. Respondents are requested to rate the frequency of the behaviours given in each item in a retrospective manner (**past four weeks**) to capture their propensity for different light exposure-related behaviours.
 
 This repository contains:
-[DOCX](https://github.com/leba-instrument/leba-instrument-en/tree/main/docx) ■
-[PDF](https://github.com/leba-instrument/leba-instrument-en/tree/main/pdf) ■ [Qualtrics](https://github.com/leba-instrument/leba-instrument-en/tree/main/qualtrics) ■ [REDCap](https://github.com/leba-instrument/leba-instrument-en/tree/main/redcap)
+■ [DOCX](https://github.com/leba-instrument/leba-instrument-en/tree/main/docx) ■
+[PDF](https://github.com/leba-instrument/leba-instrument-en/tree/main/pdf) ■ [Qualtrics](https://github.com/leba-instrument/leba-instrument-en/tree/main/qualtrics) ■ [REDCap](https://github.com/leba-instrument/leba-instrument-en/tree/main/redcap).
 
 
 #### Qualtrics
@@ -37,16 +37,16 @@ All files relevant for the [Qualtrics](https://www.qualtrics.com/) platform can 
 - `LEBA-long.qsf`
 - `LEBA_short.qsf`
 
-These QSF files are generated using **Qualtrics** platform. These QSF files can be directly imported into Qualtrics. To create a project from these QSF files, after logging into your Qualtrics account, click on the global navigation icon located in the top-left, next to the XM logo and go to **Catalog** -> **Survey** -> **Get started**. On this page, in the  **Name** field please enter the name for your survey. In the **How do you want to start your survey?** field, please select **Import a QSF file** from the drop-down list and click **Create Project**. After clicking **Create project**, you will be automatically taken to the survey tab.
+These QSF files are generated using the **Qualtrics** platform. These QSF files can be directly imported into Qualtrics. To create a project from these QSF files, after logging into your Qualtrics account, click on the global navigation icon located in the top-left, next to the XM logo and go to **Catalog** -> **Survey** -> **Get started**. On this page, in the  **Name** field, please enter the name for your survey. In the **How do you want to start your survey?** field, please select **Import a QSF file** from the drop-down list and click **Create Project**. After clicking **Create project**, you will be automatically taken to the survey tab.
 
 #### REDCap
 
-All files relevant for the [REDCap](https://www.project-redcap.org/) platform can be found under `redcap/`. This folder contains the following files:
+All relevant files for the [REDCap](https://www.project-redcap.org/) platform can be found under `redcap/`. This folder contains the following files:
 
 - `LEBA-long-form.zip`
 - `LEBA_short-form.zip`
 
-These ZIP files can be directly imported into REDCap. To import the ZIP files into your REDCap project, go to **Project Setup** -> **Online Designer** -> **Upload instrument ZIP file from another project/user or external libraries**. This will prompt you to select a file on your computer. After uploading the ZIP files, the instrument will be integrated into your project's instruments.
+These ZIP files can be directly imported into REDCap. To import the ZIP files into your REDCap project, go to **Project Setup** -> **Online Designer** -> **Upload instrument ZIP file from another project/user or external libraries**. This will prompt you to select a file on your computer. After uploading the ZIP files, the questionnaire will be integrated into your project's instruments.
 
 In addition to the ZIP files, the `redcap/` folder also contains the following sub-folders:
 
