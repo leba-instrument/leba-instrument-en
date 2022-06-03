@@ -27,7 +27,7 @@ LEBA captures light exposure-related behaviours on a 5-point Likert type scale r
 
 This repository contains:
 [DOCX](https://github.com/leba-instrument/leba-instrument-en/tree/main/docx) ■
-[PDF](https://github.com/leba-instrument/leba-instrument-en/tree/main/pdf) ■ [Qualtrics](https://github.com/leba-instrument/leba-instrument-en/tree/main/qualtrics) ■ [REDCap](https://github.com/leba-instrument/leba-instrument-en/tree/main/redcap)
+[PDF](https://github.com/leba-instrument/leba-instrument-en/tree/main/pdf) ■ [Qualtrics](https://github.com/leba-instrument/leba-instrument-en/tree/main/qualtrics) ■ [REDCap](https://github.com/leba-instrument/leba-instrument-en/tree/main/redcap).
 
 
 #### Qualtrics
@@ -37,16 +37,16 @@ All files relevant for the [Qualtrics](https://www.qualtrics.com/) platform can 
 - `LEBA-long.qsf`
 - `LEBA_short.qsf`
 
-These QSF files are generated using **Qualtrics** platform. These QSF files can be directly imported into Qualtrics. To create a project from these QSF files, after logging into your Qualtrics account, click on the global navigation icon located in the top-left, next to the XM logo and go to **Catalog** -> **Survey** -> **Get started**. On this page, in the  **Name** field please enter the name for your survey. In the **How do you want to start your survey?** field, please select **Import a QSF file** from the drop-down list and click **Create Project**. After clicking **Create project**, you will be automatically taken to the survey tab.
+These QSF files are generated using the **Qualtrics** platform. These QSF files can be directly imported into Qualtrics. To create a project from these QSF files, after logging into your Qualtrics account, click on the global navigation icon located in the top-left, next to the XM logo and go to **Catalog** -> **Survey** -> **Get started**. On this page, in the  **Name** field, please enter the name for your survey. In the **How do you want to start your survey?** field, please select **Import a QSF file** from the drop-down list and click **Create Project**. After clicking **Create project**, you will be automatically taken to the survey tab.
 
 #### REDCap
 
-All files relevant for the [REDCap](https://www.project-redcap.org/) platform can be found under `redcap/`. This folder contains the following files:
+All relevant files for the [REDCap](https://www.project-redcap.org/) platform can be found under `redcap/`. This folder contains the following files:
 
 - `LEBA-long-form.zip`
 - `LEBA_short-form.zip`
 
-These ZIP files can be directly imported into REDCap. To import the ZIP files into your REDCap project, go to **Project Setup** -> **Online Designer** -> **Upload instrument ZIP file from another project/user or external libraries**. This will prompt you to select a file on your computer. After uploading the ZIP files, the instrument will be integrated into your project's instruments.
+These ZIP files can be directly imported into REDCap. To import the ZIP files into your REDCap project, go to **Project Setup** -> **Online Designer** -> **Upload instrument ZIP file from another project/user or external libraries**. This will prompt you to select a file on your computer. After uploading the ZIP files, the questionnaire will be integrated into your project's instruments.
 
 In addition to the ZIP files, the `redcap/` folder also contains the following sub-folders:
 
